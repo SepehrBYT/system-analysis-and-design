@@ -1,7 +1,7 @@
 # System Analysis and Design
 ## HUT
 ### QuadCode
-Sepehr Bayat
-Siavash Parsapour
-Mohammad Ali Saeidi
-Amir Hossein Marei
+Sepehr Bayat <br>
+Siavash Parsapour <br>
+Mohammad Ali Saeidi <br>
+Amir Hossein Marei <br>
